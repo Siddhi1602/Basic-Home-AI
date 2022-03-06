@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="rec">
+    <file>blue_bg.png</file>
+    <file>black.png</file>
+    <file>iron_man_face.gif</file>
+    <file>iron_man.gif</file>
+    <file>date.png</file>
+    <file>Exit.png</file>
+    <file>jarvis</file>
+  </qresource>
+</RCC>
